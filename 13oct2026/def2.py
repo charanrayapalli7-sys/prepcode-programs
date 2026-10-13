@@ -1,7 +1,7 @@
 def fibo(n):
-    if n <=15:
-        return 15
+    if n <=24:
+        return  24 
 
     return n * fibo(n-1)   
 
-print(fibo(25))          
+print(fibo(21))          
