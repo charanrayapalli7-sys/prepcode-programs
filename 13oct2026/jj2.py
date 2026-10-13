@@ -9,4 +9,3 @@ def is_leap_year(year:int)->bool:
        return True 
     else:
        return False        
-print("leap_year")
